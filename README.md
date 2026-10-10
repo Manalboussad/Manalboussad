@@ -5,8 +5,7 @@
 **Étudiante en Master Systèmes Informatiques Intelligents**
 
 
-[LinkedIn](https://www.linkedin.com/in/manal-boussad-9b3255248/) · [E-mail](mailto:boussadmanal21@gmail.com) · [Vidéo de mon projet de fin de licence](https://www.youtube.com/watch?v=17V7que0oOI)
-
+[LinkedIn](https://www.linkedin.com/in/manal-boussad-9b3255248/) · [E-mail](mailto:boussadmanal21@gmail.com) · 
 ![Recherche de stage](https://img.shields.io/badge/Recherche-de%20stage-2E7D32)
 ![Ouverte aux projets](https://img.shields.io/badge/Ouverte%20aux-projets%20concrets-1565C0)
 
@@ -19,7 +18,7 @@
 Étudiante en Master Systèmes Informatiques Intelligents, après une licence en Systèmes Informatiques.
 Je me forme actuellement au machine learning, au deep learning, à l'intelligence artificielle et à l'IoT,... et je conçois des applications web de bout en bout, de la base de données à l'interface.
 
-🚀 **À la recherche d'un stage** et **ouverte à des projets concrets** (développement web, IA, IoT). N'hésitez pas à me contacter !
+🚀 **À la recherche d'un stage** et **ouverte à des projets concrets** (développement web, IA, IoT...). N'hésitez pas à me contacter !
 
 ---
 
@@ -61,7 +60,7 @@ Je me forme actuellement au machine learning, au deep learning, à l'intelligenc
 
 **🚗 Application de gestion d'auto-école — projet de fin de licence (18/20)**
 Application web full stack avec espaces dédiés aux candidats, moniteurs et administrateurs.
-[🎥 Voir la démonstration](https://www.youtube.com/watch?v=17V7que0oOI) · [Code source]
+[🎥 Voir la démonstration](https://www.youtube.com/watch?v=17V7que0oOI)
 📄 [Consulter le rapport complet (PDF, 64 pages)](https://github.com/Manalboussad/projet-fin-licence/blob/main/PFE_compressed.pdf)
 
 **🔒 Plateforme de formation en ligne (en cours)**

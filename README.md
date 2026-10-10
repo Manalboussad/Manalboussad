@@ -62,7 +62,7 @@ Je me forme actuellement au machine learning, au deep learning, à l'intelligenc
 **🚗 Application de gestion d'auto-école — projet de fin de licence (18/20)**
 Application web full stack avec espaces dédiés aux candidats, moniteurs et administrateurs.
 [🎥 Voir la démonstration](https://www.youtube.com/watch?v=17V7que0oOI) · [Code source]
-📄 [Consulter le rapport complet (PDF, 64 pages)](PFE_compressed.pdf)
+📄 [Consulter le rapport complet (PDF, 64 pages)](https://github.com/Manalboussad/projet-fin-licence/blob/main/PFE_compressed.pdf)
 
 **🔒 Plateforme de formation en ligne (en cours)**
 Site d'une académie de trichologie, conçu et développé en binôme pour une cliente réelle : comptes utilisateurs, espace administrateur, suivi de progression, sécurité.

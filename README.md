@@ -4,6 +4,10 @@
 
 **Étudiante en Master Systèmes Informatiques Intelligents**
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1500&color=8B5CF6&center=true&vCenter=true&width=500&lines=De+l'id%C3%A9e+%C3%A0+l'application" alt="De l'idée à l'application" />
+</div>
+
 
 [LinkedIn: Manal Boussad](https://www.linkedin.com/in/manal-boussad-9b3255248/)  ·  [E-mail: boussadmanal21@gmail.com](mailto:boussadmanal21@gmail.com) · 
 

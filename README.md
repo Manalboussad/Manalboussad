@@ -65,8 +65,7 @@ Application web full stack avec espaces dédiés aux candidats, moniteurs et adm
 📄 [Consulter le rapport complet (PDF, 64 pages)](https://github.com/Manalboussad/projet-fin-licence/blob/main/PFE_compressed.pdf)
 
 **🔒 Plateforme de formation en ligne (en cours)**
-Site d'une académie de trichologie, conçu et développé en binôme pour une cliente réelle : comptes utilisateurs, espace administrateur, suivi de progression, sécurité.
-*Dépôt privé, code et démo sur demande.* · `Laravel · PHP · JavaScript · MySQL`
+Site web professionnel développé en binôme pour une cliente :  comptes utilisateurs, espace administrateur, suivi de progression, sécurité... (en cours — code privé) `Laravel · PHP · JavaScript · MySQL`
 
 **📍 Startup académique : suivi d'objets perdus FINDME** 
 Concept de localisation d'objets perdus combinant Bluetooth, GPS et RFID.

@@ -6,6 +6,7 @@
 
 
 [LinkedIn](https://www.linkedin.com/in/manal-boussad-9b3255248/) · [E-mail](mailto:boussadmanal21@gmail.com) · 
+
 ![Recherche de stage](https://img.shields.io/badge/Recherche-de%20stage-2E7D32)
 ![Ouverte aux projets](https://img.shields.io/badge/Ouverte%20aux-projets%20concrets-1565C0)
 

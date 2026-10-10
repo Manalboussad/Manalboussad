@@ -4,9 +4,7 @@
 
 **Étudiante en Master Systèmes Informatiques Intelligents**
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,20,24&height=120&section=header&text=De%20l'id%C3%A9e%20%C3%A0%20l'application&fontSize=34&fontColor=ffffff" alt="De l'idée à l'application" />
-</div>
+<h2 align="center">💡 De l'idée → 🚀 à l'application</h2>
 
 [LinkedIn: Manal Boussad](https://www.linkedin.com/in/manal-boussad-9b3255248/)  ·  [E-mail: boussadmanal21@gmail.com](mailto:boussadmanal21@gmail.com) · 
 
